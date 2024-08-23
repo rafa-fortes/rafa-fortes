@@ -1,8 +1,3 @@
-### Rafael  Neves
-
-## Software Engineer, DevOps, Open Source, Containers
-
----
 
 <img align="left" alt="Rafael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rafa-Fortes&show_icons=true&hide_border=true" />
 
